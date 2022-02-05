@@ -125,7 +125,6 @@ class StringsEnUs implements Strings {
   @override
   String get phoneNumberAtLeast8Digits => "Phone number at least 8 digits";
 
-  @override
   String get pleaseDoACreditSimulationUsingTheFormBelow =>
       "Please oo a credit simulation using the form below";
 
