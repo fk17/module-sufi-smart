@@ -37,4 +37,52 @@ class _CreditSimulationViewState extends State<CreditSimulationView> {
       ),
     );
   }
+
+  Widget loanType() {
+    return Container(
+      width: double.infinity,
+      height: 60,
+      color: Colors.amber,
+    );
+  }
+
+  Widget area() {
+    return Container(
+      width: double.infinity,
+      height: 60,
+      color: Colors.amber,
+    );
+  }
+
+  Widget price() {
+    return Container(
+      width: double.infinity,
+      height: 60,
+      color: Colors.amber,
+    );
+  }
+
+  Widget insuranceType() {
+    return Container(
+      width: double.infinity,
+      height: 60,
+      color: Colors.amber,
+    );
+  }
+
+  Widget dpAmount() {
+    return Container(
+      width: double.infinity,
+      height: 60,
+      color: Colors.amber,
+    );
+  }
+
+  Widget dpPercentage() {
+    return Container(
+      width: double.infinity,
+      height: 60,
+      color: Colors.amber,
+    );
+  }
 }
